@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Choque-Vega/static/css/main.824e2ba5.css",
+    "main.js": "/Choque-Vega/static/js/main.24717158.js",
+    "static/js/787.fb771931.chunk.js": "/Choque-Vega/static/js/787.fb771931.chunk.js",
+    "static/media/color-sharp.png": "/Choque-Vega/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/wha.png": "/Choque-Vega/static/media/wha.931979bf030bf10e97cd.png",
+    "static/media/banner-bg.png": "/Choque-Vega/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/CentraNo2-Bold.ttf": "/Choque-Vega/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Choque-Vega/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Choque-Vega/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/Choque-Vega/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/image2.jpeg": "/Choque-Vega/static/media/image2.232a4cf273474035fffd.jpeg",
+    "static/media/contacto.png": "/Choque-Vega/static/media/contacto.b6ab673bec821bdc753f.png",
+    "static/media/in.png": "/Choque-Vega/static/media/in.75e0546a6b5abe4c0506.png",
+    "static/media/image1.jpeg": "/Choque-Vega/static/media/image1.aaf4fa678c5f2eae8b96.jpeg",
+    "static/media/revicons.eot": "/Choque-Vega/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Choque-Vega/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Choque-Vega/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/Choque-Vega/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/Choque-Vega/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/Choque-Vega/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/logo.svg": "/Choque-Vega/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Choque-Vega/index.html",
+    "static/media/arrow2.svg": "/Choque-Vega/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/Choque-Vega/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "main.824e2ba5.css.map": "/Choque-Vega/static/css/main.824e2ba5.css.map",
+    "main.24717158.js.map": "/Choque-Vega/static/js/main.24717158.js.map",
+    "787.fb771931.chunk.js.map": "/Choque-Vega/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.824e2ba5.css",
+    "static/js/main.24717158.js"
+  ]
+}
